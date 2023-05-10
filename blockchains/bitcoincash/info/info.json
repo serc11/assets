@@ -6,7 +6,7 @@
     "research": "https://research.binance.com/en/projects/bitcoin-cash",
     "symbol": "BCH",
     "type": "coin",
-    "decimals": 8,
+    "decimals": 20,
     "status": "active",
     "links": [
         {
